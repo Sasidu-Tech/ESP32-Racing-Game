@@ -1,6 +1,6 @@
 # 🏎️ ESP32 Racing Game Controller
 
-![ESP32 Wi-Fi Scanner](images/esp32-wifi-scanner.png)
+![ESP32 Racing Game](images/ESP32%20Code%20(2).png)
 
 A simple racing game controlled using an **ESP32 and physical push buttons**.
 

@@ -1,4 +1,8 @@
 # 🏎️ ESP32 Racing Game Controller
+ 
+## 🎥 Demo
+
+[![Watch Demo on LinkedIn](https://img.shields.io/badge/Watch%20Demo-LinkedIn-blue?logo=linkedin)](https://lnkd.in/p/eE4rQ4jy)
 
 ![ESP32 Racing Game](images/Game%20Interface%20(2).png)
 
@@ -10,7 +14,7 @@ This project combines **Embedded Systems + ESP32 + Python + Pygame** into one si
 
 ---
 
-## 🎮 Project Demo
+
 
 ### 🎯 Controls
 

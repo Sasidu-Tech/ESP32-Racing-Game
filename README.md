@@ -1,6 +1,6 @@
 # 🏎️ ESP32 Racing Game Controller
 
-![ESP32 Racing Game](images/ESP32%20Code%20(2).png)
+![ESP32 Racing Game](images/Game%20Interface%20(2).png)
 
 A simple racing game controlled using an **ESP32 and physical push buttons**.
 
